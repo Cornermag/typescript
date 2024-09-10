@@ -9,3 +9,4 @@ var header = this.document.getElementById("header");
 header.innerHTML = "Hello " + john.name;
 
 let jane = new User("Джейн");
+let dima = new User("Дима");
