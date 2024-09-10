@@ -11,3 +11,4 @@ header.innerHTML = "Hello " + john.name;
 let jane = new User("Джейн");
 let dima = new User("Дима");
 let alex = new User("Алекс");
+let kate = new User("Катя");
